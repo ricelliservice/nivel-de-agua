@@ -41,7 +41,7 @@ O sistema classifica o nível em cinco estados operacionais e utiliza a bibliote
 | **2** | Baixo | 🟡 Amarelo | Atenção recomendada |
 | **3** | Médio | 🟢 Verde | Operação normal |
 | **4** | Alto | 🩵 Ciano | Volume elevado |
-| **5** | Muito alto (alerta) | 🟦 Azul | Risco de transbordamento |
+| **5** | Muito alto (alerta) | 🔵  Azul | Risco de transbordamento |
 
 ---
 
